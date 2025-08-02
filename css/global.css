@@ -11,8 +11,8 @@ html {
 }
 
 .body {
-    background: var(--general-color);
-    color: var(--general-color-two);
+    background: var(--general-color-two);
+    color: var(--general-color);
     font-family: 'WorkSans', "Arial", sans-serif;
     line-height: 1.5;
 }

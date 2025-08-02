@@ -89,7 +89,7 @@
 }
 
 .sales__title span {
-    background: linear-gradient(10deg, var(--general-color-two) 36%, var(--accent-color) 30%);
+    background: linear-gradient(10deg, var(--general-color) 36%, var(--accent-color) 30%);
     color: transparent;
     -webkit-background-clip: text;
 }
